@@ -34,22 +34,6 @@
   },
   "work": [
     {
-      "name": "BRIDA NTB",
-      "position": "IT Support",
-      "job_type": "Internship",
-      "location_type": "On-site",
-      "location": "Mataram, Indonesia",
-      "url": "https://brida.ntbprov.go.id/",
-      "startDate": "2025-06-28",
-      "endDate": "2025-09-01",
-      "summary": "Assisted with general administrative tasks and daily office operations.",
-      "responsibilities": [
-        "Assisted with general administrative tasks and daily office operations.",
-        "Performed data entry and managed internal records to support research activities.",
-        "Designed promotional and event materials for agency programs and public events."
-      ]
-    },
-    {
       "name": "Myrepublic",
       "position": "Sales",
       "job_type": "Full Time",
@@ -60,16 +44,9 @@
       "endDate": "2026-03-25",
       "summary": "Myrepublic adalah layanan Penyedia Internet No 1 di Indonesia dengan 2 juta lebih pelanggan diseluruh Indonesia",
       "responsibilities": [
-        "Built backend services for admin panel with Go, Fiber, PostgreSQL, etc.",
-        "Desiged microservices architecture with RabbitMQ for inter-service communications, and NATS as messaging service.",
-        "Developed API documentation web app to centralized all API documentation, with authentication and an admin dashboard using Go, Fiber, PostgreSQL, TailwindCSS, JavaScript.",
-        "Implements real-time chat system for feedback or complains to admin/customer service, chat between user and driver. Built with NATS, MongoDB, Go, etc.",
-        "Implements logging system with Clickhouse, for logged admin action, driver activity, etc.",
-        "Setup API Gateway with Kong for managing traffic and security.",
-        "Utilized PostgreSQL as OLTP database, ClickHouse as OLAP database, MongoDB for easy and flexible data storage, Redis for session, caching and fast data access.",
-        "Setup deployment for staging and production environment, with Linux Server.",
-        "Designed and implemented automated CI/CD pipelines for staging and production environments using Github Action."
-      ]
+        "Myrepublic adalah Layanan Wifi No 1 di Indonesia dengan Harga Murah.",
+        "Memiliki Harga Lebih murah dengan yang lain, 100 ribu perbulan khusus daerah Lamongan dan Gresik.",
+        ]
     }
   ],
   "education": [
