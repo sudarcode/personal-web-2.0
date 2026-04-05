@@ -70,11 +70,9 @@
         "Setup deployment for staging and production environment, with Linux Server.",
         "Designed and implemented automated CI/CD pipelines for staging and production environments using Github Action."
       ]
-    },
-    
+    }
   ],
   "education": [
-    
     {
       "institution": "SMK Ahmad Yani Sukorame",
       "url": "https://smkn1narmada.sch.id/",
