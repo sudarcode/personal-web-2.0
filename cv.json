@@ -1,26 +1,22 @@
 {
   "basics": {
-    "name": "Ahmad Rizky Nusantara Habibi",
-    "nickname": "ahmadhabibi14",
-    "label": "Undergraduate of Computer Science | Back-End Developer",
+    "name": "Nauval Sudarmanto",
+    "nickname": "masdar",
+    "label": "Penulis Blog, Vlogger | Content Creator",
     "summary": "Welcome to a small corner of the web where I leave traces of my thoughts, the things I’ve built, and the questions I’m still trying to answer.",
     "location": {
-      "city": "Lombok",
+      "city": "Lamongan",
       "countryCode": "ID",
       "region": "Indonesia"
     },
     "socials": [
       {
         "network": "email",
-        "url": "mailto:habi@ternaklinux.com"
-      },
-      {
-        "network": "telegram",
-        "url": "https://t.me/ahmadhabibi14"
+        "url": "mailto:admin@sudarblogger.com"
       },
       {
         "network": "github",
-        "url": "https://github.com/ahmadhabibi14"
+        "url": "https://github.com/sudarcode"
       },
       {
         "network": "linkedin",
@@ -28,19 +24,11 @@
       },
       {
         "network": "instagram",
-        "url": "https://www.instagram.com/kurohabi"
-      },
-      {
-        "network": "x",
-        "url": "https://x.com/ahmadh4bibi14"
+        "url": "https://www.instagram.com/sudarblogger"
       },
       {
         "network": "facebook",
-        "url": "https://www.facebook.com/habi0x14"
-      },
-      {
-        "network": "reddit",
-        "url": "https://www.reddit.com/user/ahmadhabibi14"
+        "url": "https://www.facebook.com/Nauval.sudarmanto"
       }
     ]
   },
@@ -62,15 +50,15 @@
       ]
     },
     {
-      "name": "Stevor",
-      "position": "Backend Engineer",
+      "name": "Myrepublic",
+      "position": "Sales",
       "job_type": "Full Time",
-      "location_type": "Remote",
-      "location": "Surabaya, Indonesia",
-      "url": "https://stevor.co.id/",
-      "startDate": "2024-11-27",
-      "endDate": "2025-05-30",
-      "summary": "Develop Backend services for logistic app, and other business needs.",
+      "location_type": "Lapangan",
+      "location": "Gresik, Indonesia",
+      "url": "https://myrepublic.co.id/",
+      "startDate": "2026-01-14",
+      "endDate": "2026-03-25",
+      "summary": "Myrepublic adalah layanan Penyedia Internet No 1 di Indonesia dengan 2 juta lebih pelanggan diseluruh Indonesia",
       "responsibilities": [
         "Built backend services for admin panel with Go, Fiber, PostgreSQL, etc.",
         "Desiged microservices architecture with RabbitMQ for inter-service communications, and NATS as messaging service.",
@@ -83,92 +71,18 @@
         "Designed and implemented automated CI/CD pipelines for staging and production environments using Github Action."
       ]
     },
-    {
-      "name": "Benalu.dev",
-      "position": "Full-Stack Engineer",
-      "job_type": "Part-time",
-      "location_type": "Remote",
-      "location": "Bali, Indonesia",
-      "url": "https://benalu.dev",
-      "startDate": "2023-06-26",
-      "endDate": "2025-12-31",
-      "summary": "Work on a variety of projects, including web applications, APIs. Collaborated with clients to understand their needs and deliver high-quality solutions.",
-      "responsibilities": [
-        "Built back office / admin dashboard for real-estate app. With Svelte, Go, Fiber, Clickhouse",
-        "Contributed to the open-source frontend framework Svelte-MPA. Built with NodeJS, esbuild, svelte-compiler, and used for various company projects.",
-        "Maintained and improved a water sensor monitoring web app, rewrites frontend web framework from jQuery to Svelte.",
-        "Migrate OLAP use cases from PostgreSQL to ClickHouse database.",
-        "Migrate IoT server from raw TCP server to NATS streaming server.",
-        "Built a Boarding House management web app. With Go, Fiber, Svelte, JavaScript, Tarantool, Clickhouse."
-      ]
-    },
-    {
-      "name": "SalonKita Indonesia",
-      "position": "Web Developer",
-      "job_type": "Internship",
-      "location_type": "Remote",
-      "location": "Medan, Indonesia",
-      "url": "https://salonkita.co.id",
-      "startDate": "2024-05-20",
-      "endDate": "2024-09-20",
-      "summary": "Built CMS (Content Management System) for salon products and services.",
-      "responsibilities": [
-        "Designed system infrastructure for Backend API, Backoffice admin, and Frontend web.",
-        "Built backend API with Go, Fiber, Redis, PostgreSQL, Docker.",
-        "Built back-office web app, for manage blogs, partners, image banners, users. With Sveltekit, TypeScript, Nodejs, TailwindCSS.",
-        "Design database schema, with PostgreSQL.",
-        "Manage server and setup CI/CD scripts for deployment to 3 apps: Backend API, Backoffice portal admin, Frontend web) with Ubuntu Server, NGINX, Docker, and some Bash Script for automation."
-      ]
-    },
-    {
-      "name": "Petani Kode",
-      "position": "Web Content Writer",
-      "job_type": "Seasonal",
-      "location_type": "Hybrid",
-      "location": "Lombok, Indonesia",
-      "url": "https://petanikode.com",
-      "startDate": "2022-02-5",
-      "endDate": null,
-      "summary": "As a content writer, mostly write programming tutorials",
-      "responsibilities": [
-        "Write content or programming tutorial.",
-        "Slicing UI design from figma to website."
-      ]
-    },
-    {
-      "name": "Duitin Indonesia",
-      "position": "Frontend Web Developer",
-      "job_type": "Freelance",
-      "location_type": "Remote",
-      "location": "Jakarta, Indonesia",
-      "url": "https://duitin.id",
-      "startDate": "2022-08-10",
-      "endDate": "2022-10-10",
-      "summary": "As a frontend web developer, built a website",
-      "responsibilities": [
-        "Slicing UI design from Adobe XD into website duitin.id",
-        "Create a blog pages that fetches data from the backend API"
-      ]
-    }
+    
   ],
   "education": [
+    
     {
-      "institution": "Qamarul Huda Badaruddin University",
-      "url": "https://uniqhba.ac.id",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2022-09-26",
-      "endDate": null,
-      "summary": "Specialization in Software Engineering, with a focus on Back-End Development. Courses include Data Structures, Algorithms, Object-Oriented Programming, and Software Development."
-    },
-    {
-      "institution": "SMKN 1 Narmada",
+      "institution": "SMK Ahmad Yani Sukorame",
       "url": "https://smkn1narmada.sch.id/",
-      "area": "Computer and Network Engineering",
+      "area": "Multimedia",
       "studyType": "Vocational High School",
-      "startDate": "2019-07-01",
-      "endDate": "2022-05-10",
-      "summary": "Graduated as a vocational high school student with a focus on Server Side Development, Linux Server, and Network Engineering."
+      "startDate": "2011-07-01",
+      "endDate": "2014-05-10",
+      "summary": "SMK Ahmand Yani Sukorame adalah sekolah kejuruan yang ada di pelosok lamongan, dimana di Kecamatan Sukorame."
     }
   ],
   "awards": [
