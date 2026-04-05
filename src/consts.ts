@@ -3,7 +3,7 @@ import type { Site, Links } from "@/types";
 export const SITE: Site = {
   TITLE: "Sudarmanto",
   DESCRIPTION: "A personal web of Nauval Sudarmanto",
-  AUTHOR: "ahmadhabibi14",
+  AUTHOR: "masdar",
   REPO_URL: "https://github.com/ahmadhabibi14/personal-web-v2",
 };
 
