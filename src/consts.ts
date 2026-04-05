@@ -1,7 +1,7 @@
 import type { Site, Links } from "@/types";
 
 export const SITE: Site = {
-  TITLE: "MAS DAR",
+  TITLE: "Sudarmanto",
   DESCRIPTION: "A personal web of Nauval Sudarmanto",
   AUTHOR: "ahmadhabibi14",
   REPO_URL: "https://github.com/ahmadhabibi14/personal-web-v2",
