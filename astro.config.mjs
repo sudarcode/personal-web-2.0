@@ -7,7 +7,7 @@ import cloudflare from "@astrojs/cloudflare";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://habi14.pages.dev/",
+  site: "https://www.sudarblogger.web.id/",
   integrations: [react(), tailwind(), icon(), mdx()],
   output: "server",
   adapter: cloudflare(),
