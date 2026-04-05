@@ -34,18 +34,108 @@
   },
   "work": [
     {
-      "name": "Myrepublic",
-      "position": "Sales",
-      "job_type": "Full Time",
-      "location_type": "Lapangan",
-      "location": "Gresik, Indonesia",
-      "url": "https://myrepublic.co.id/",
-      "startDate": "2026-01-14",
-      "endDate": "2026-03-25",
-      "summary": "Myrepublic adalah layanan Penyedia Internet No 1 di Indonesia dengan 2 juta lebih pelanggan diseluruh Indonesia",
+      "name": "BRIDA NTB",
+      "position": "IT Support",
+      "job_type": "Internship",
+      "location_type": "On-site",
+      "location": "Mataram, Indonesia",
+      "url": "https://brida.ntbprov.go.id/",
+      "startDate": "2025-06-28",
+      "endDate": "2025-09-01",
+      "summary": "Assisted with general administrative tasks and daily office operations.",
       "responsibilities": [
-        "Myrepublic adalah Layanan Wifi No 1 di Indonesia dengan Harga Murah.",
-        "Memiliki Harga Lebih murah dengan yang lain, 100 ribu perbulan khusus daerah Lamongan dan Gresik.",
+        "Assisted with general administrative tasks and daily office operations.",
+        "Performed data entry and managed internal records to support research activities.",
+        "Designed promotional and event materials for agency programs and public events."
+      ]
+    },
+    {
+      "name": "Stevor",
+      "position": "Backend Engineer",
+      "job_type": "Full Time",
+      "location_type": "Remote",
+      "location": "Surabaya, Indonesia",
+      "url": "https://stevor.co.id/",
+      "startDate": "2024-11-27",
+      "endDate": "2025-05-30",
+      "summary": "Develop Backend services for logistic app, and other business needs.",
+      "responsibilities": [
+        "Built backend services for admin panel with Go, Fiber, PostgreSQL, etc.",
+        "Desiged microservices architecture with RabbitMQ for inter-service communications, and NATS as messaging service.",
+        "Developed API documentation web app to centralized all API documentation, with authentication and an admin dashboard using Go, Fiber, PostgreSQL, TailwindCSS, JavaScript.",
+        "Implements real-time chat system for feedback or complains to admin/customer service, chat between user and driver. Built with NATS, MongoDB, Go, etc.",
+        "Implements logging system with Clickhouse, for logged admin action, driver activity, etc.",
+        "Setup API Gateway with Kong for managing traffic and security.",
+        "Utilized PostgreSQL as OLTP database, ClickHouse as OLAP database, MongoDB for easy and flexible data storage, Redis for session, caching and fast data access.",
+        "Setup deployment for staging and production environment, with Linux Server.",
+        "Designed and implemented automated CI/CD pipelines for staging and production environments using Github Action."
+      ]
+    },
+    {
+      "name": "Benalu.dev",
+      "position": "Full-Stack Engineer",
+      "job_type": "Part-time",
+      "location_type": "Remote",
+      "location": "Bali, Indonesia",
+      "url": "https://benalu.dev",
+      "startDate": "2023-06-26",
+      "endDate": "2025-12-31",
+      "summary": "Work on a variety of projects, including web applications, APIs. Collaborated with clients to understand their needs and deliver high-quality solutions.",
+      "responsibilities": [
+        "Built back office / admin dashboard for real-estate app. With Svelte, Go, Fiber, Clickhouse",
+        "Contributed to the open-source frontend framework Svelte-MPA. Built with NodeJS, esbuild, svelte-compiler, and used for various company projects.",
+        "Maintained and improved a water sensor monitoring web app, rewrites frontend web framework from jQuery to Svelte.",
+        "Migrate OLAP use cases from PostgreSQL to ClickHouse database.",
+        "Migrate IoT server from raw TCP server to NATS streaming server.",
+        "Built a Boarding House management web app. With Go, Fiber, Svelte, JavaScript, Tarantool, Clickhouse."
+      ]
+    },
+    {
+      "name": "SalonKita Indonesia",
+      "position": "Web Developer",
+      "job_type": "Internship",
+      "location_type": "Remote",
+      "location": "Medan, Indonesia",
+      "url": "https://salonkita.co.id",
+      "startDate": "2024-05-20",
+      "endDate": "2024-09-20",
+      "summary": "Built CMS (Content Management System) for salon products and services.",
+      "responsibilities": [
+        "Designed system infrastructure for Backend API, Backoffice admin, and Frontend web.",
+        "Built backend API with Go, Fiber, Redis, PostgreSQL, Docker.",
+        "Built back-office web app, for manage blogs, partners, image banners, users. With Sveltekit, TypeScript, Nodejs, TailwindCSS.",
+        "Design database schema, with PostgreSQL.",
+        "Manage server and setup CI/CD scripts for deployment to 3 apps: Backend API, Backoffice portal admin, Frontend web) with Ubuntu Server, NGINX, Docker, and some Bash Script for automation."
+      ]
+    },
+    {
+      "name": "Petani Kode",
+      "position": "Web Content Writer",
+      "job_type": "Seasonal",
+      "location_type": "Hybrid",
+      "location": "Lombok, Indonesia",
+      "url": "https://petanikode.com",
+      "startDate": "2022-02-5",
+      "endDate": null,
+      "summary": "As a content writer, mostly write programming tutorials",
+      "responsibilities": [
+        "Write content or programming tutorial.",
+        "Slicing UI design from figma to website."
+      ]
+    },
+    {
+      "name": "Duitin Indonesia",
+      "position": "Frontend Web Developer",
+      "job_type": "Freelance",
+      "location_type": "Remote",
+      "location": "Jakarta, Indonesia",
+      "url": "https://duitin.id",
+      "startDate": "2022-08-10",
+      "endDate": "2022-10-10",
+      "summary": "As a frontend web developer, built a website",
+      "responsibilities": [
+        "Slicing UI design from Adobe XD into website duitin.id",
+        "Create a blog pages that fetches data from the backend API"
       ]
     }
   ],
